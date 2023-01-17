@@ -62,6 +62,11 @@ function updateProfessionalExperience(profileData) {
     }).join('')
 }
 
+function updatecertificates(profileData) {
+    const certificates = document.getElementById('profile.certificates.hardSkills')
+    certificates.innerHTML = profileData.certificates.hardSkills.map(certificate => `<li><img src="${certificate.logo}" alt="${certificate.name}" title="${certificate.name}"></li>`).join('')
+}
+
 (async () => {
 
     const profileData = await fetchProfileData()
@@ -71,5 +76,6 @@ function updateProfessionalExperience(profileData) {
     updateLanguages(profileData)
     updatePortfolio(profileData)
     updateProfessionalExperience(profileData)
+    updatecertificates(profileData)
 
 })()
