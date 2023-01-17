@@ -75,5 +75,29 @@
       "period": "2016 - 2020",
       "description": " "
     }
-  ]
+  ],
+  "certificates": {
+    "hardSkills": [
+      {
+        "name": "Formação CSS",
+        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/css.png"
+      },
+      {
+        "name": "Formação JavaScript",
+        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/js.png"
+      },
+      {
+        "name": "Formação Angular",
+        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/angular.png"
+      },
+      {
+        "name": "Formação HTML",
+        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/html.png"
+      },
+      {
+        "name": "Formação Java",
+        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/java.png"
+      }
+    ]
+  }
 }
