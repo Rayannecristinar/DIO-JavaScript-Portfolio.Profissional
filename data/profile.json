@@ -20,12 +20,8 @@
         "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/angular.png"
       },
       {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/git.png"
-      },
-      {
-        "name": "Docker",
-        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/docker.png"
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/Rayannecristinar/DIO-Portfolio-Profissional/main/data/imgs/github.png"
       },
       {
         "name": "Python",
@@ -48,26 +44,41 @@
   ],
   "portfolio": [
     {
-      "name": "Criação de uma página de portfolio",
-      "url": "https://github.com/Rayannecristinar/DIO-Portfolio-Profissional",
+      "name": "Criação de uma página de Portfolio Profissional",
+      "url": "https://github.com/Rayannecristinar/DIO-JavaScript-Portfolio.Profissional",
       "github": true
     },
     {
       "name": "Criação de uma Pokedex",
-      "url": "https://github.com/Rayannecristinar/DIO-Desafio-Pokedex",
+      "url": "https://github.com/Rayannecristinar/DIO-JavaScript-Desafio-Pokedex",
       "github": true
     },
     {
-      "name": "Criação de uma pagina de um restaurante",
-      "url": "https://github.com/Rayannecristinar/DIO-Framework-em-CSS",
+      "name": "Criação de uma pagina de um Restaurante",
+      "url": "https://github.com/Rayannecristinar/DIO-CSS-Framework",
+      "github": true
+    },
+    {
+      "name": "Criação de uma pagina de Buzzfeed",
+      "url": "https://github.com/Rayannecristinar/DIO-Angular-Desafio-Buzzfeed",
+      "github": true
+    },
+    {
+      "name": "Criação de uma Clone de loja Playstation",
+      "url": "https://github.com/Rayannecristinar/DIO-Angular-Desafio-Playstation.Store",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Front-end Developer",
-      "period": "2022 - até o momento",
-      "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsam esse neque velit aperiam soluta! "
-    }
+      "name": "Engenheiro Civil |",
+      "period": "2016 - 2020",
+      "description": "Principais atividades:
+      • Assistência e verificação de planilhas orçamentarias das construções das delegacias da Polícia
+      Civil.
+      • Colaboração na regularização patrimonial dos imóveis da Polícia Civil.
+      • Assistência na elaboração de Termos de Referência e na adequação de projetos elétricos,
+      hidráulicos e arquitetônicos. "
+    },
   ]
 }
